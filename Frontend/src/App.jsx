@@ -8,6 +8,7 @@ import ComparisonChart from './components/ComparisonChart';
 import MoversTable from './components/MoversTable';
 import Predictor from './components/Predictor';
 import CorrelationCard from './components/CorrelationCard';
+
 import './App.css';
 
 const API = import.meta.env.VITE_API_URL || 'http://localhost:8000';
