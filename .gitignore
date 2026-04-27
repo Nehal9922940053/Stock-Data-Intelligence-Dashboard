@@ -22,8 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build output
-Frontend/build/
-Frontend/dist/
+
 Frontend/node_modules/
 
 # Environment variables
