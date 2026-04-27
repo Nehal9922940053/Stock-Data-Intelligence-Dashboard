@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.so
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+Frontend/build/
+Frontend/dist/
+Frontend/node_modules/
+
+# Environment variables
+.env.local
+.env.production
+.env
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.qodo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts (optional, if not needed in repo)
+# *.tar
+# .docker/
+
+# Deployment specific (ignore if sensitive)
+render.yaml
+# docker-compose.yml (usually keep, but comment if required)
