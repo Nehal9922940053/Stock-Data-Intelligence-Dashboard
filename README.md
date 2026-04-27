@@ -361,4 +361,4 @@ This project is built for educational and demonstration purposes as part of an i
 
 ---
 
-*Built by [Your Name] · Jarnox Software Internship Assignment · April 2026*
+*Built by [Nehal Narvekar] · Jarnox Software Internship Assignment · April 2026*
